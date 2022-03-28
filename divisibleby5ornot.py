@@ -1,0 +1,1 @@
+Python program to check if the number is divisible by 5 or not

@@ -99,7 +99,7 @@ stud2=Student()
 stud2.printcount()'''
 
 #we want to abstract count ,want to hide variable count ,we use __variable_name
-class Student:
+'''class Student:
     __count=0
 
     def __init__(self):
@@ -118,3 +118,4 @@ print(stud1._Student__count)    #to acess them outside the class
 
 #to get example for super() function
 #to abstractusing===> _variable_nm,__variable_nm
+'''

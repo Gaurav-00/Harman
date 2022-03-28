@@ -1,3 +1,4 @@
+#Python program to check if the number is an Armstrong number or not
 n=int(input("enter a number-:"))
 temp=n
 while temp>0:
